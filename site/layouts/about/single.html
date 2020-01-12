@@ -1,0 +1,23 @@
+{{ define "main" }}
+	<div class="ph3 pv6 center mw8">
+		<h1 class="f2 lh-title b mb3">{{ .Title }}</h1>
+		<div class="flex-l">
+			<div class="w-40-m pr4">
+				{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+			</div>
+			<div class="w-60-m cms">
+				<p class="small-caps">Currently: {{ .Params.location }}</p>
+		  		{{ .Content }}
+			</div>
+		</div>
+		<div class="w-40-m pr4">
+			<h6 class="small-caps pt3">Contact me at:</h6>
+			<a class="link" href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
+			<h6 class="small-caps pt3">Find me online:</h6>
+			{{ range $display, $url := .Params.Links }}
+				<a class="link db" href="{{ $url }}">{{ $display }}</a>
+			{{ end }}
+		</div>
+	</div>
+
+{{ end }}

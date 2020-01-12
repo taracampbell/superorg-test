@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <div class="ph3 pv6 center mw8">
+    <h1 class="f2 lh-title b mb3 bb bt pv3">{{.Title}}</h1>
+    <div class="bright-pink">
+      <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+    </div>
+    <div class="flex-l">
+      <div class="w-60-l cms">
+        <p>{{ .Description }}</p>
+        {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+        {{ .Content }}
+      </div>
+      <div class="w-40-l">
+        <div class="pl5">
+          {{ range $attribute, $value := .Params.meta }}
+            <h6 class="small-caps pt3">{{ $attribute }}</h6> {{ $value }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}

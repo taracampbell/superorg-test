@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <div class="ph3 pv6 center mw8">
+    <h1 class="f2 lh-title b mb3 bb bt pv3">{{.Title}}</h1>
+    <div class="bright-pink">
+      <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+    </div>
+    <div class="cms w-60-l">
+      <p>{{ .Description }}</p>
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ .Content }}
+    </div>
+  </div>
+{{ end }}

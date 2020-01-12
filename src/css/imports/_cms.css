@@ -25,6 +25,7 @@
 
   & h5 {
     font-size: .875rem;
+
   }
 
 	/* Images */
@@ -38,11 +39,12 @@
 
 	/* Links */
 	& a {
-		color: var(--primary);
+		color: var(--bright-pink);
 		transition: var(--hover-transition);
+		text-decoration: none;
 		&:hover {
-			background-color: var(--highlight);
-			color: var(--black);
+			background-color: var(--bright-pink);
+			color: var(--primary);
 		}
 	}
 
