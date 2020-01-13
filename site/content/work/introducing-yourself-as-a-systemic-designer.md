@@ -3,7 +3,7 @@ title: 'How to introduce yourself as a systemic designer'
 type: work
 date: 2020-01-12T15:04:10.000Z
 description: >-
-  In our workshop, “How we talk about what we do: Rethinking the introduction,” we created and tested a new workshop format
+  In our workshop, “How we talk about what we do: Rethinking the introduction,” we created and tested a new workshop format.
 image: /img/rsd8workshop.jpg
 meta:
   conference: RSD8
