@@ -1,5 +1,3 @@
 ---
-title: Superorganism | Systemic Design Collective
-tagline: "Superorganism is a design collective building capacities for change from wherever you are in a system."
-image: /img/home-jumbotron.jpg
+tagline: "Superorganism is a strategic design collective working with you to create change toward more just, sustainable, relational futures no matter where you are in a system."
 ---
