@@ -1,7 +1,7 @@
 ---
 title: Innovation at the Northern Centre for Sustainability
 type: work
-date: 2019-12-13T15:04:10.000Z
+date: 2019-03-13T15:04:10.000Z
 description: >-
   We worked with Ecology North to develop a strategic vision for the innovation hub at their proposed Northern Centre for Sustainability.
 image: /img/ncfs.jpg
@@ -51,4 +51,4 @@ Hanging outWe also consider the time we spent in Yellowknife not "officially" wo
 
 ## Outputs
 
-You can read our final report [here](http://northerncentreforsustainability.ca/wp-content/uploads/2019/04/2.-innovation-at-ncfs.pdf).
+You can read our final report [here](/docs/InnovationAtTheNorthernCentreForSustainability.pdf).
