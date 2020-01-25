@@ -1,7 +1,7 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "tagline" .Params.tagline) }}
+{{ partial "jumbotron" (dict "imageURL" .Params.image "tagline" .Params.tagline) }}
 
-{{ partial "latest" . }}
+<!-- {{ partial "latest" . }} -->
 
 {{ end }}
