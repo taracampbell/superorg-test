@@ -7,13 +7,7 @@ description: >-
 image: /img/ncfs.jpg
 meta:
   client: Ecology North
-  team:
-  - Ariana Lutterman
-  - Tara Campbell
   year: 2019
-  tags:
-  - foresight
-  - community
 ---
 
 Ecology North is an environmental non-profit based in Yellowknife, Northwest Territories, Canada. Since 1971, Ecology North has been promoting sustainable ways of living  in the North through a variety of programs, educational initiatives, and partnerships. Ecology North contracted Superorganism to work on their Northern  Centre  for  Sustainability (NCFS) initiative. As Ecology North and local partners, stakeholders, and residents have envisioned, the proposed NCFS will be a living demonstration of green building design in downtown Yellowknife, with the aim of enabling climate action across the North. An innovation hub inside the building will serve as a centre for  knowledge exchange, partnership development, and research in the areas of green design and community sustainability.

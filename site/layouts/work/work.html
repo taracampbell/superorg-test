@@ -3,7 +3,7 @@
 <div class="ph3 pv6 center mw8">
 <h1 class="f2 lh-title b mb3">Work</h1>
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+      {{ range (.Paginator 6).Pages.ByPublishDate.Reverse }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>

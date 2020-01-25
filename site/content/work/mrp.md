@@ -6,13 +6,7 @@ description: >-
   We wrote a collaborative major research project for our MDes in Strategic Foresight and Innovation at OCAD University.
 image: /img/mrp.jpg
 meta:
-  team:
-  - Ariana Lutterman
-  - Tara Campbell
   year: 2019
-  tags:
-  - reflective practice
-  - principles-based design
 ---
 
 ## Abstract

@@ -7,14 +7,7 @@ description: >-
 image: /img/rsd8poster.jpg
 meta:
   conference: RSD8
-  team:
-  - Ariana Lutterman
-  - Tara Campbell
   year: 2019
-  tags:
-  - systemic design
-  - principles-based design
-  - visualization
 ---
 
 You can checkout our poster [here](/docs/DesigningFuturesWithCareRSD7.pdf).
