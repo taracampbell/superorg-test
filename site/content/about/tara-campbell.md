@@ -3,8 +3,8 @@ title: Tara Campbell, MDes
 image: /img/tara.jpg
 email: tara@superorg.ca
 links:
-  twitter: https://twitter.com/tara_campbell
-  linkedIn: https://www.linkedin.com/in/campbelltara/
+  - {display: Twitter, url: https://twitter.com/tara_campbell}
+  - {display: LinkedIn, url: https://www.linkedin.com/in/campbelltara/}
 location: Waterloo, Ontario, Canada
 ---
 

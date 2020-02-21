@@ -3,10 +3,10 @@ title: Ariana Lutterman, MDes
 image: /img/ariana.jpg
 email: ariana@superorg.ca
 links:
-  linkedIn: https://www.linkedin.com/in/arianalutterman/
-  twitter: https://twitter.com/atmlutter
-  instagram: https://www.instagram.com/lutternoodle/
-  blog: https://lutternoodling.tumblr.com/
+  - {display: Twitter, url: https://twitter.com/atmlutter}
+  - {display: LinkedIn, url: https://www.linkedin.com/in/arianalutterman/}
+  - {display: Instagram, url: https://www.instagram.com/lutternoodle/}
+  - {display: Blog, url: https://lutternoodling.tumblr.com/}
 location: Cape Town, South Africa
 ---
 

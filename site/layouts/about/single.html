@@ -14,8 +14,8 @@
 			<h6 class="small-caps pt3">Contact me at:</h6>
 			<a class="link" href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
 			<h6 class="small-caps pt3">Find me online:</h6>
-			{{ range $display, $url := .Params.Links }}
-				<a class="link db" href="{{ $url }}">{{ $display }}</a>
+			{{ range $link := .Params.Links }}
+				<a class="link db" href="{{ $link.url }}">{{ $link.display }}</a>
 			{{ end }}
 		</div>
 	</div>
