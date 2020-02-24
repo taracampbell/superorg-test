@@ -2,8 +2,8 @@
 title: Introductions Workshop at the Carnegie Mellon School of Design
 date: 2020-02-24T16:24:10.452Z
 description: >-
-  We were invited to run our Introductions Workshop at the Carnegie Mellon
-  School of Design.
+  We were invited to run our Introductions Workshop with undergraduates at the
+  Carnegie Mellon School of Design.
 image: /img/img_5975.jpg
 ---
 We've been thinking about how we introduce ourselves as designers and talk about our work for a while now, and first presented our thoughts and prototyped some activities at the [Relating Systems Thinking and Design Symposium](https://www.superorg.ca/work/introducing-yourself-as-a-systemic-designer/) in Chicago in October 2019. Dan happened to be in attendance at that session and that's how we got invited down to CMU. Dan Lockton and Silvana Juri hosted us as part of their undergraduate [Persuasion course](http://persuasion.imaginari.es/).
