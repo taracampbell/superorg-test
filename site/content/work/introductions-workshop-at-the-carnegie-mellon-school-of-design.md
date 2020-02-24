@@ -6,7 +6,7 @@ description: >-
   Carnegie Mellon School of Design.
 image: /img/img_5975.jpg
 ---
-We've been thinking about how we introduce ourselves as designers and talk about our work for a while now, and first presented our thoughts and prototyped some activities at the [Relating Systems Thinking and Design Symposium](https://www.superorg.ca/work/introducing-yourself-as-a-systemic-designer/) in Chicago in October 2019. Dan happened to be in attendance at that session and that's how we got invited down to CMU. Dan Lockton and Silvana Juri hosted us as part of their undergraduate [Persuasion course](http://persuasion.imaginari.es/).
+We've been thinking about how we introduce ourselves as designers and talk about our work for a while now, and first presented our thoughts and prototyped some activities at the [Relating Systems Thinking and Design Symposium](https://www.superorg.ca/work/introducing-yourself-as-a-systemic-designer/) in Chicago in October 2019. Dan Lockton happened to be in attendance at that session and that's how we got invited down to CMU. Dan and Silvana Juri hosted us as part of their undergraduate [Persuasion course](http://persuasion.imaginari.es/).
 
 Tara was able to be there in-person, and Ariana joined remotely which worked out better than we expected! We're going to be writing more about the workshop and our activites soon, but if you want to have a look at what we did at CMU, you can check out our slides [here](https://docs.google.com/presentation/d/1C_xWRoD6vi6ldWhhbBdYxoXM5Rt2Y6lwUvCAHcOLYi8/edit?usp=sharing) and read the description of our activities below.
 
