@@ -1,5 +1,5 @@
 ---
-title: Introductions Workshop at the Carnegie Mellon School of Design
+title: Introductions workshop with undergraduates at the Carnegie Mellon School of Design
 date: 2020-02-24T16:24:10.452Z
 description: >-
   We were invited to run our Introductions Workshop with undergraduates at the
