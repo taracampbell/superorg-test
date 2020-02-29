@@ -20,4 +20,4 @@ We are releasing our materials for your use with a Creative Commons Attribution-
 
 ## Change Log
 
-**VERSION 1.0.0** The presentation and cards were initially devised at the [Relating Systems Thinking and Design Symposium in Chicago](https://www.superorg.ca/work/introducing-yourself-as-a-systemic-designer/) in October 2019 and prototyped for the first time during a [workshop](https://www.superorg.ca/work/introductions-workshop-at-the-carnegie-mellon-school-of-design/) with design undergraduates at Carnegie Mellon University in Pittsburgh.
+**VERSION 1.0.0** The presentation and cards were initially devised at the [Relating Systems Thinking and Design Symposium in Chicago](/work/introducing-yourself-as-a-systemic-designer/) in October 2019 and prototyped for the first time during a [workshop](/work/introductions-workshop-at-the-carnegie-mellon-school-of-design/) with design undergraduates at Carnegie Mellon University in Pittsburgh.
