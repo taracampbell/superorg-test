@@ -13,8 +13,8 @@
       <div class="w-40-l">
         <div class="pl5">
           {{ range $attribute := .Params.meta }}
-            <h6 class="small-caps pt3">{{ $attribute.category }}</h6>
-            {{ $attribute.data }}
+            <h6 class="small-caps">{{ $attribute.category }}</h6>
+            <p class="pb1">{{ $attribute.data }}</p>
           {{ end }}
         </div>
       </div>

@@ -43,8 +43,7 @@
 		transition: var(--hover-transition);
 		text-decoration: none;
 		&:hover {
-			background-color: var(--bright-pink);
-			color: var(--primary);
+			text-decoration: underline;
 		}
 	}
 
@@ -89,7 +88,6 @@
 
   /* Blockquotes */
   & blockquote {
-    background-color: var(--grey-1);
     display: block;
     border-radius: var(--border-radius);
     padding: var(--spacing-medium);
