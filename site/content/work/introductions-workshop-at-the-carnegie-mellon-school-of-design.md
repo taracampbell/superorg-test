@@ -30,7 +30,7 @@ Using the categories everyone had volunteered, Ariana introduced herself for the
 
 ![A selection of the students' self-descriptions of what they do](/img/img_5972-2.jpg)
 
-Introductions often rely heavily on nouns and titles like "designer." But these nouns can mean so many things to so many different people, even within the same field. We drew on this quote Ariana found by Stephen Fry for inspiration for an alternative way of constructing an introduction.
+Introductions often rely heavily on nouns and titles like "designer." But these nouns can mean so many things to so many different people, even within the same field. We drew on this quote Ariana found by Stephen Fry for inspiration for an alternative way of constructing an introduction:
 
 > Oscar Wilde said that if you know what you want to be, then you inevitably become it – that is your punishment, but if you never know, then you can be anything. There is a truth to that. We are not nouns, we are verbs. I am not a thing – an actor, a writer – I am a person who does things – I write, I act – and I never know what I am going to do next. I think you can be imprisoned if you think of yourself as a noun.
 
