@@ -7,7 +7,7 @@ links:
   - {display: LinkedIn, url: https://www.linkedin.com/in/arianalutterman/}
   - {display: Instagram, url: https://www.instagram.com/lutternoodle/}
   - {display: Blog, url: https://lutternoodling.tumblr.com/}
-location: Cape Town, South Africa
+location: Somewhere in Italy
 ---
 
 Ariana is a designer with international experience facilitating foresight workshops, designing community engagements, and conducting research. She has run workshops in collaboration with UNESCO and the World Futures Studies Federation to help communities move toward desired futures. Her most rewarding moments are helping people with anxious images of the future feel empowered by more hopeful ways forward.
