@@ -6,8 +6,8 @@ description: >-
   We presented a poster at RSD8 that outlines a structured method for collaborative reflective practice for systemic design.
 image: /img/rsd8poster.jpg
 meta:
-  conference: RSD8
-  year: 2019
+  - {category: conference, data: RSD8}
+  - {category: year, data: 2019}
 ---
 
 You can checkout our poster [here](/docs/DesigningFuturesWithCareRSD7.pdf).

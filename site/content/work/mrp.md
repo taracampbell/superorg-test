@@ -6,7 +6,7 @@ description: >-
   We wrote a collaborative major research project for our MDes in Strategic Foresight and Innovation at OCAD University.
 image: /img/mrp.jpg
 meta:
-  year: 2019
+  - {category: year, data: 2019}
 ---
 
 ## Abstract

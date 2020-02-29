@@ -14,7 +14,7 @@ The following materials were designed to be used in a facilitated workshops on d
 
 We are releasing our materials for your use with a Creative Commons Attribution-ShareAlike 4.0 International license. You can read the terms of the license [here](https://creativecommons.org/licenses/by-sa/4.0/).
 
-**Cards** Download (pdf)
+**Cards** [Download (pdf)](/docs/CardsFlipped.pdf)
 
 **Slides** [View in Google Slides](https://docs.google.com/presentation/d/1C_xWRoD6vi6ldWhhbBdYxoXM5Rt2Y6lwUvCAHcOLYi8/edit?usp=sharing)
 
