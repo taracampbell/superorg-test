@@ -8,7 +8,7 @@ image: /img/mcinvitetransparent.png
 ---
 **Come chat with us for our first Virtual Mending Circle!**
 
-Wednesday, March 25 at 6pm EST at this Zoom
+Wednesday, March 25 at 6pm EST at this [Zoom](https://us04web.zoom.us/j/884843792)
 
 Things feel really broken right now. Next Wednesday, we’re hosting an online hangout to chat and mend our things, our systems, ourselves, and each other.
 
@@ -22,7 +22,7 @@ We will be mending our physical things! Ariana is going to fix her backpack and 
 
 **How do I participate?**
 
-We’ll be updating our agenda here; please feel free to add anything beforehand. The call will be hosted on Zoom at this link. We’ll be reachable by email if there are any questions or issues connecting.
+We’ll be updating our agenda [here](https://docs.google.com/document/d/1uDMiVbTrew44EC9B93tWG3Joljvsh3a13JUgDLQzqO4/edit?usp=sharing); please feel free to add anything beforehand. The call will be hosted on Zoom at this [link](https://us04web.zoom.us/j/884843792). We’ll be reachable by email if there are any questions or issues connecting.
 
 **If I can’t make this one, will there be more?**
 
