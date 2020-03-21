@@ -12,7 +12,7 @@ image: /img/mcinvitetransparent.png
 
 Wednesday, March 25 at 6pm EST at this [link](https://meet.jit.si/SOVirtualMendingCircle).
 
-Things feel really broken right now. Next Wednesday, we’re hosting an online hangout to chat and mend our things, our systems, ourselves, and each other.
+This is a moment of slowing down, of taking stock, of noticing what needs repair, of care for ourselves and our communities. In that spirit, we are hosting our first Virtual Mending Circle. Next Wednesday, we’re hosting an online hangout to chat and mend our things, our systems, ourselves, and each other.
 
 **What will it look like?**
 
