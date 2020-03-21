@@ -1,13 +1,12 @@
 ---
 title: 'Virtual Mending Circle - March 25, 2020'
 date: 2020-03-21T17:00:58.676Z
-description: >+
+description: >-
   An online hangout to chat and mend our things, our systems, ourselves, and
   each other.
-
-image: /img/mcinvitetextunder.jpg
+image: /img/mcinvitetransparent.png
 ---
-****
+- - -
 
 **Virtual Mending Circle**
 
@@ -25,7 +24,7 @@ We will be mending our physical things! Ariana is going to fix her backpack and 
 
 **How do I participate?**
 
-Check out our agenda here; please feel free to add anything beforehand. The call will be hosted on Zoom at this [link](https://us04web.zoom.us/j/884843792). We’ll be reachable by email if there are any questions or issues connecting.
+Check out our agenda [here](https://docs.google.com/document/d/1uDMiVbTrew44EC9B93tWG3Joljvsh3a13JUgDLQzqO4/edit?usp=sharing); please feel free to add anything beforehand. The call will be hosted on Zoom at this [link](https://us04web.zoom.us/j/884843792). We’ll be reachable by email if there are any questions or issues connecting.
 
 **If I can’t make this one, will there be more?**
 
