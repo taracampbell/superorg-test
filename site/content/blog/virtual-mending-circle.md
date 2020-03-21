@@ -1,6 +1,6 @@
 ---
 title: 'Virtual Mending Circle - March 25, 2020'
-date: 2020-03-21T17:00:58.676Z
+date: 2020-03-21T16:42:00.000Z
 description: >-
   An online hangout to chat and mend our things, our systems, ourselves, and
   each other.
