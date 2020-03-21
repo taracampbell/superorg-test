@@ -8,9 +8,9 @@ image: /img/mcinvitetransparent.png
 ---
 - - -
 
-**Virtual Mending Circle**
+**Come chat with us for our first Virtual Mending Circle!**
 
-Come chat with us for our first Virtual Mending Circle! Wednesday, March 25 at 6pm EST at this [Zoom](https://us04web.zoom.us/j/884843792).
+Wednesday, March 25 at 6pm EST at this [Zoom](https://us04web.zoom.us/j/884843792).
 
 Things feel really broken right now. Next Wednesday, we’re hosting an online hangout to chat and mend our things, our systems, ourselves, and each other.
 
