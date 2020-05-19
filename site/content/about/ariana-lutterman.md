@@ -2,7 +2,7 @@
 title: 'Ariana Lutterman, MDes'
 image: /img/ariana.jpg
 email: ariana@superorg.ca
-location: Somewhere in Italy
+location: North Carolina
 links:
   - display: Twitter
     url: 'https://twitter.com/atmlutter'
